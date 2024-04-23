@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830529096070",
+    "project_id": "bim-app-a047d",
+    "storage_bucket": "bim-app-a047d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830529096070:android:92c7d9d888517464558407",
+        "android_client_info": {
+          "package_name": "com.example.bim_app_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MMU2AGYVPKhTcGTBB_1ZECUUx2TfDWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
